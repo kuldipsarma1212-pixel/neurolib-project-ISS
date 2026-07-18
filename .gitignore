@@ -1,0 +1,12 @@
+# MNE generated files
+*.fif
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
